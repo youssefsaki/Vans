@@ -1,5 +1,4 @@
 import headerLogo from './header-vans-logo.svg';
-import bigShoeImage from './big-shoe-1.png';
 
 //* Shoes 
 import bigShoe1 from './big-shoe1.png';
@@ -29,7 +28,6 @@ import footerLogo from './footer-logo.svg';
 
 export { 
     headerLogo,
-    bigShoeImage,
 
     bigShoe1,
     bigShoe2,
