@@ -15,7 +15,7 @@ const Footer = () => {
           />
           <p className="text-base leading-7 font-montserrat text-white-400 mt-7 sm:max-w-sm">
           Get shoes ready for the new term at your 
-          nearest Nike store. Find Your perfect Size In Store. Get Rewards.
+          nearest VANS store. Find Your perfect Size In Store. Get Rewards.
           </p>
           <div className="flex items-center gap-4 mt-8">
             {socialMedia.map((icon, index) => (
