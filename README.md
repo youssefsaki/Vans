@@ -24,7 +24,7 @@ To explore and run this project locally, follow these steps:
 ```bash
 
 ## Clone the repository
-git clone https://github.com/your-username/VANS.git
+git clone https://github.com/youssefsaki/VANS.git
 
 ## Change into the project directory
 cd VANS
