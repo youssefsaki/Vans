@@ -3,7 +3,7 @@
 
 A simple landing page project named "VANS," where I honed my skills in using Tailwind CSS. This project serves as a practice ground for applying responsive design principles, exploring various utility classes, and refining my proficiency with the Tailwind CSS framework.
 
-## Description
+# Description
 
 The VANS landing page is a static website created to showcase the application of Tailwind CSS, a utility-first CSS framework. Tailwind CSS empowers developers to rapidly build modern and responsive user interfaces by providing a comprehensive set of utility classes that can be easily applied directly in the HTML markup.
 
